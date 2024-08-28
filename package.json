@@ -22,7 +22,7 @@
     "eslint-plugin-promise": "4.2.1",
     "eslint-plugin-standard": "4.0.0",
     "prettier": "1.18.2",
-    "webpack": "4.27.1",
+    "webpack": "5.94.0",
     "webpack-cli": "3.1.2"
   },
   "description": "Sometimes you wish to print some diagnostic message to detect and issue but you want to do it only once to avoid console spamming.",
